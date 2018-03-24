@@ -56,9 +56,18 @@ Is this ok? (yes) y  <br/>
 <img src="https://lh3.googleusercontent.com/t647e3CPariM1ZbOLuwby1jECE7FyQtS1MWGaZS2mshlc-twZSjL765yKb22ydKujNGcXiwXBHhSULTIwNJpt5cA1CVKdLSjT_KTvniXLm3mUDH41SxUlciaCPvqq13rpwfouLr-uZpqpaaYNd6s51xkECgYt01YvKUlkbAtDa-vl9KHdx7RBFU0lztdeGH6EtDbXzTp7u9_c7G8Om9Ch7EWUWQ1XSp6dc_2Y4o-qQbm2PRX4Q6fF-JJIW9v1NqqA-DtI52oEa-2WEqU2lr_wr6xOfzwXt82fAgXEd9Cw96eaWXTsHGiXOjjJ56IWyjdd4h7dfi8hYgZQ3XBtPp3G0RgZ-iWL8gKw5jVVkaMvQzodKPa7ldz1iyDma-qTaz0t8Lwi9o9LEkN50qJNsI7akeA5Ys178OyOSwQwkC7nl-FdwEcGR9yMMr7mI8T0yZZXJx5Sqx06V9MtdNMUlFrDagAvuDAQ1uelWlTH2JB_K8JWldeuy0harXqAl0rjpv910doEPXl6zOD-w5v99DNJavbBviJf7J3tzp1mmgG1q0ljqV_hh9YkSW1kRAwjOFKhkx6MVk-IOiaVnAoX0cifIbSlAcVWkzGUnVPfQ=w655-h686-no"/> 
 <h2>Install Express</h2>
 <p>
+<b>References</b><br/>
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment<br/>
+</p>
+<p>
 Install Express locally: <b>npm install express --save</b><br/>
 [To be reviewed] Install Express globally: <b>npm install -g express</b><br/>
 Setup NODE_MODULES environment variable:<br/>
 [MacOS]: <b>NODE_MODULES=/usr/local/lib/node_modules/</b><br/>
 (<i>Normally, the express module will be installed locally in the node_modules folder at the root directory of your project. But we can install it globally to be reused by all projects by setting the NODE_MODULES env var like above</i>)<br/>  
 </p>
+<h2>Express Application Generator</h2>
+Install: <b>npm install -g express-generator</b><br/>
+Create a demo application: <b>express demo-express-skeleton</b><br/>
+<img src="https://lh3.googleusercontent.com/dx7diPCtD_WfKlod0QSGNOfQLOO1GTs1a4Kp-1aZvhKyVBvGVtX1v8j_IMsx67baYkMCvvZ94Tq2_VTYn0xp_shE9-ZMEnq4nRXsvG-ftGCdYkBAxdbkNRCeitrw-u3geNcVZEmbqc7YgoDZ3jCjSQha-Z2RSCy8DwnZhdz_dC3GgnMq6SrK6L3oIBGjCnPoGQHl7CBmbMH9YWfltMASPddchTrTwf8pHwd8ZSFkw77nZh02lAscmsLlhL1JcY30obiiIz-ujf5iNlqfB-g4bsn1vgQBd_FRWAgW1pBfYZ-kGggSSUksCoEiOujBsr2Imk9ToK9OSiQlPFiWbvMA8jqYQYrj6nj-Q0witNuDj17ycFVBrIy10pjl3YautxKKlcsPHqX4OMzj93vgr1U--82ogLaeX6rLZfXK3Eb66h3E0x3gn7TmrOP__LgJnk8kcYdC1Qz0EqaCl5Syn1yiPNHVQ-2sew6KOarkmCga68mjNKs1ZNcZ-BZYmh6ZpnQ6W82LoAftEOouY2jPy7vsXe9HERdwLVdcmkjSLK9wh9ReOq_todryoFJzztRMui598uTPI_OXSSqfQUl-UgRJQAHNZqL_vXGBrMZkoQ=w2176-h1534-no" />
+
