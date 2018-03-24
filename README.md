@@ -11,6 +11,6 @@
 <p>
 Install Express: <b>npm install -g express</b><br/>
 Setup NODE_MODULES environment variable:<br/>
-[MacOS]: <b>NODE_MODUDES=/usr/local/lib/node_modules/</b><br/>
+[MacOS]: <b>NODE_MODULES=/usr/local/lib/node_modules/</b><br/>
 (<i>Normally, the express module will be installed locally in the node_modules folder at the root directory of your project. But we can install it globally to be reused by all projects by setting the NODE_MODULES env var like above</i>)<br/>  
 </p>
