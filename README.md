@@ -70,4 +70,9 @@ Setup NODE_MODULES environment variable:<br/>
 Install: <b>npm install -g express-generator</b><br/>
 Create a demo application: <b>express demo-express-skeleton</b><br/>
 <img src="https://lh3.googleusercontent.com/dx7diPCtD_WfKlod0QSGNOfQLOO1GTs1a4Kp-1aZvhKyVBvGVtX1v8j_IMsx67baYkMCvvZ94Tq2_VTYn0xp_shE9-ZMEnq4nRXsvG-ftGCdYkBAxdbkNRCeitrw-u3geNcVZEmbqc7YgoDZ3jCjSQha-Z2RSCy8DwnZhdz_dC3GgnMq6SrK6L3oIBGjCnPoGQHl7CBmbMH9YWfltMASPddchTrTwf8pHwd8ZSFkw77nZh02lAscmsLlhL1JcY30obiiIz-ujf5iNlqfB-g4bsn1vgQBd_FRWAgW1pBfYZ-kGggSSUksCoEiOujBsr2Imk9ToK9OSiQlPFiWbvMA8jqYQYrj6nj-Q0witNuDj17ycFVBrIy10pjl3YautxKKlcsPHqX4OMzj93vgr1U--82ogLaeX6rLZfXK3Eb66h3E0x3gn7TmrOP__LgJnk8kcYdC1Qz0EqaCl5Syn1yiPNHVQ-2sew6KOarkmCga68mjNKs1ZNcZ-BZYmh6ZpnQ6W82LoAftEOouY2jPy7vsXe9HERdwLVdcmkjSLK9wh9ReOq_todryoFJzztRMui598uTPI_OXSSqfQUl-UgRJQAHNZqL_vXGBrMZkoQ=w2176-h1534-no" />
-
+<h1>YARN - A replacement of NodeJS</h1>
+Run faster then NodeJS<br/>
+Install YARN: <b>npm install yarn -g</b>
+Check version: <b>yarn -v</b>
+Create project: <b>yarn init -y</b>
+Install Express module: <b>yarn add express</b>
