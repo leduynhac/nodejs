@@ -80,3 +80,16 @@ Check version: <b>yarn -v</b><br/>
 Create project: <b>yarn init -y</b><br/>
 Install Express module: <b>yarn add express</b><br/>
 <h1>Express Middleware</h1>
+<h1>Express EJS & Reload modules</h1>
+<p>Install EJS: <b>yarn add ejs</b></p>
+<p>Install Reload: <b>yarn add reload --dev</b></p>
+<p>(<i>yarn add reload --dev</i> will add this module into devDependencies part of the file package.json instead of dependencies part)</p>
+<p>to live preview changes of the files js, ejs, we need to add scripts, ex: <b>nodemon demo_express_ejs.js -e ejs,js</b> into scripts part of package.json file and execute the command <b>yarn server</b> for running the added scripts.</p>
+<p>In addition:</p>
+<p>- in the js file, at the end of the file, you will add <b>reload(app)</b></p>
+<p>- in the ejs file, at the end of the file, you will add <b>&lt;script src="reload/reload.js"&gt;&lt;/script&gt;</b></p>
+<h1>Visual Studio Code - Extensions<h1>
+<p><b>html live preview: to help you see the dynamic changes on html file</b></p>
+<p><b>html snippets</b></p>
+<p><b>npm intellisenser</b></p>
+<p><b>line-counter</b></p>
