@@ -88,8 +88,8 @@ Install Express module: <b>yarn add express</b><br/>
 <p>In addition:</p>
 <p>- in the js file, at the end of the file, you will add <b>reload(app)</b></p>
 <p>- in the ejs file, at the end of the file, you will add <b>&lt;script src="reload/reload.js"&gt;&lt;/script&gt;</b></p>
-<h1>Visual Studio Code - Extensions<h1>
-<p><b>html live preview: to help you see the dynamic changes on html file</b></p>
+<h1>Visual Studio Code - Extensions</h1>
+<p><b>html live preview</b>: to help you see the dynamic changes on html file</p>
 <p><b>html snippets</b></p>
 <p><b>npm intellisenser</b></p>
 <p><b>line-counter</b></p>
