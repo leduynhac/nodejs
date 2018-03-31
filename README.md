@@ -94,4 +94,4 @@ Install Express module: <b>yarn add express</b><br/>
 <p><b>npm intellisenser</b></p>
 <p><b>line-counter</b></p>
 <h1>Creating an HTTPS Server with Node.js<h1/>
-<a href="https://blog.cloudboost.io/everything-about-creating-an-https-server-using-node-js-2fc5c48a8d4e">Creating an HTTPS Server with Node.js</a>
+https://blog.cloudboost.io/everything-about-creating-an-https-server-using-node-js-2fc5c48a8d4e
